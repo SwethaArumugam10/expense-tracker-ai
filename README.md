@@ -14,7 +14,7 @@ A full-stack MERN application with Groq AI integration for intelligent expense t
 | Backend    | Node.js, Express.js                 |
 | Database   | MongoDB Atlas (free tier)           |
 | Auth       | JWT (JSON Web Tokens) + bcryptjs    |
-| AI         | Groq AI — Llama 3 (**FREE**)        |
+| AI         | Groq AI — Llama 3         |
 | Styling    | Custom CSS Design System (no UI lib)|
 
 ---
