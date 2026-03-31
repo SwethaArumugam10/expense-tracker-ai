@@ -208,24 +208,6 @@ npm start
 
 ---
 
-## 🎯 Resume Talking Points
-
-When asked about this project in an interview, highlight:
-
-**Architecture:**
-> "Built a full-stack MERN application with a RESTful API backend. Used JWT for stateless authentication with bcrypt password hashing. Implemented MongoDB aggregation pipelines for real-time analytics."
-
-**AI Integration:**
-> "Integrated Groq AI with Llama 3 models for three AI features: automatic expense categorization, monthly spending analysis with a budget health score, and a context-aware conversational finance assistant. Implemented a model fallback chain so the app automatically switches models if one hits its rate limit."
-
-**Frontend:**
-> "Built the entire UI without a component library — custom CSS design system with CSS variables for theming. Used React Context for global auth state, React Router v6 for protected routes, and Recharts for interactive data visualizations."
-
-**Problem Solved:**
-> "Users often don't know where their money goes. The AI analyzes spending patterns and gives personalized, data-driven tips — not generic advice."
-
----
-
 ## 🔒 Security Best Practices Used
 
 - Passwords hashed with bcryptjs (salt rounds: 12)
