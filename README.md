@@ -117,7 +117,6 @@ npm install
 cd backend
 cp .env.example .env
 ```
-
 Open `backend/.env` and fill in:
 
 ```env
